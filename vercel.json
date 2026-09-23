@@ -1,8 +1,8 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/operator", "destination": "/operator_mobile" },
-    { "source": "/executive-mobile", "destination": "/executive_mobile" },
-    { "source": "/executive", "destination": "/executive" }
+    {"source":"/operator","destination":"/production.html"},
+    {"source":"/executive","destination":"/executive.html"},
+    {"source":"/executive-mobile","destination":"/executive.html"}
   ]
 }
